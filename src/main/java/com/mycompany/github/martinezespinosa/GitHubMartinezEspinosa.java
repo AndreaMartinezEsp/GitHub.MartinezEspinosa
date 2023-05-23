@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
 
 package com.mycompany.github.martinezespinosa;
 
@@ -12,6 +8,10 @@ package com.mycompany.github.martinezespinosa;
 public class GitHubMartinezEspinosa {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Martinez m = new Martinez();
+        System.out.println("Multiplica los números 1: "+m.multiplicaNum());
+        
+        Espinosa e = new Espinosa();
+        System.out.println("Multiplica los números 1: "+e.multinum());
     }
 }
