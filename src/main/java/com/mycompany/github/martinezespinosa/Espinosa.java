@@ -20,4 +20,9 @@ public class Espinosa {
         System.out.println("¡Cuidado se acercan tormentas por el oeste!");
     }
     
+    public void mostrarMensaje(){
+        System.out.println("No se que escribir: Hola y adiós");
+    }
+    
+    
 }
