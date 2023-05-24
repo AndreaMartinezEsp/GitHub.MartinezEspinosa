@@ -16,4 +16,9 @@ public class Espinosa {
         return res;
     }
     
+    public void mostrarMensaje(){
+        System.out.println("No se que escribir: Hola y adiós");
+    }
+    
+    
 }

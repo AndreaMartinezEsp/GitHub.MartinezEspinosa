@@ -15,4 +15,9 @@ public class Martinez {
     return num1*num2;
     }
     
+    public void mostrarMensaje(){
+        System.out.println("No se que escribir: Hola");
+    }
+    
+    
 }
