@@ -15,4 +15,8 @@ public class Martinez {
     return num1*num2;
     }
     
+    public void mensajeImportante(){
+        System.out.println("¡Esto es un mensaje de advertencia!");
+    }
+    
 }

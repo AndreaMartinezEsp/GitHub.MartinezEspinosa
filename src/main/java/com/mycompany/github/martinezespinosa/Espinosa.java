@@ -16,4 +16,8 @@ public class Espinosa {
         return res;
     }
     
+    public void mensajeImportante(){
+        System.out.println("¡Cuidado se acercan tormentas por el oeste!");
+    }
+    
 }
